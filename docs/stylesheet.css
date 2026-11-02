@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+
+}
+
+.opaqueContainer {
+    background-color: rgb(38, 103, 8);
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(5, 5, 0, 0.5);
+    margin-left: 100px;
+}
+
+
